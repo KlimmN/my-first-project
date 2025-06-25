@@ -1,2 +1,3 @@
 # my-first-project
-nikita
+
+This is my first project
